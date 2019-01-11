@@ -34,7 +34,7 @@ class Society{
             placedata.add(society.people.get(count).getPlace());
         }
         int occurances = Collections.frequency(placedata, PlaceName);
-        System.out.println("Population for "+PlaceName+":"+occurances);
+        //System.out.println("Population for "+PlaceName+":"+occurances);
 
         //empty the placedata array every time.
         placedata.clear();

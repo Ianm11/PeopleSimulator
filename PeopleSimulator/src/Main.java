@@ -3,7 +3,6 @@ class Main {
 	public static void main(String[] args) {
 	    Society peopleTown = new Society(10000);
 
-
         //places Demo code PLEASE REMOVE!!
         //remember that there are only 5 towns to start with
         //gets place of each person
